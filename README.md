@@ -1,6 +1,6 @@
-![projet-5](./src/img/oc.svg "OpenClassrooms")
+# Construisez un site e-commerce
 
-# Construisez un site e-commerce ![makejs](./src/img/makejs.svg "makejs")
+![projet-5](./src/img/oc.svg "OpenClassrooms")
 
 ## Note préalable :
 
@@ -43,25 +43,17 @@
 
 une page de vue sous forme de liste, montrant tous les articles disponibles à la vente.
 
-![homepage](./src/img/homepage.JPG "homepage.JPG")
-
 ### Une page produit "PRODUCT"
 
 une page “produit”, qui affiche de manière dynamique l'élément sélectionné par l'utilisateur et lui permet de personnaliser le produit et de l'ajouter à son panier.
-
-![productpage](./src/img/productpage.JPG "productpage.JPG")
 
 ### Une page panier "BASKET"
 
 une page “panier” contenant un résumé des produits dans le panier, le prix total et un formulaire permettant de passer une commande.
 
-![basketpage](./src/img/basketpage.JPG "basketpage.JPG")
-
 ### Une page de validation "VALID"
 
 une page de confirmation de commande, remerciant l'utilisateur pour sa commande, et indiquant le prix total et l'identifiant de commande envoyé par le serveur.
-
-![validpage](./src/img/validpage.JPG "validpage")
 
 ## API
 
